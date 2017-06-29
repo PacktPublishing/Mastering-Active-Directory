@@ -7,7 +7,7 @@ We will quickly go through the architecture and fundamentals of Active Directory
 
 Furthermore, I will guide you on how to automate administrative tasks using PowerShell cmdlets. Toward the end, we will cover best practices and troubleshooting techniques that can be used to improve security and performance in an identity infrastructure.
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter16.
+All of the code is organized into folders. For example, Chapter16.
 
 
 
