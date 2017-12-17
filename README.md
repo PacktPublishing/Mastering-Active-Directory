@@ -30,6 +30,3 @@ The code will look like the following:
 * [Active Directory Disaster Recovery](https://www.packtpub.com/networking-and-servers/active-directory-disaster-recovery?utm_source=github&utm_medium=repository&utm_campaign=9781847193278)
 
 * [Windows Server 2003 Active Directory Design and Implementation: Creating, Migrating, and Merging Networks](https://www.packtpub.com/networking-and-servers/windows-server-2003-active-directory-design-and-implementation-creating-migra?utm_source=github&utm_medium=repository&utm_campaign=9781904811084)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
