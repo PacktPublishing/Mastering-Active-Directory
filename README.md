@@ -30,3 +30,7 @@ The code will look like the following:
 * [Active Directory Disaster Recovery](https://www.packtpub.com/networking-and-servers/active-directory-disaster-recovery?utm_source=github&utm_medium=repository&utm_campaign=9781847193278)
 
 * [Windows Server 2003 Active Directory Design and Implementation: Creating, Migrating, and Merging Networks](https://www.packtpub.com/networking-and-servers/windows-server-2003-active-directory-design-and-implementation-creating-migra?utm_source=github&utm_medium=repository&utm_campaign=9781904811084)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789800203">https://packt.link/free-ebook/9781789800203 </a> </p>
